@@ -1,0 +1,3 @@
+[submodule "rpmsgexport"]
+	path = rpmsgexport
+	url = https://github.com/andersson/rpmsgexport.git
